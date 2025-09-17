@@ -1,1 +1,0 @@
-# bg-blur-app
